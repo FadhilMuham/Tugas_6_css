@@ -1,0 +1,24 @@
+p.satu{
+    height: 74px;
+    width: 25%;
+    overflow: auto;
+    background-color: aqua;
+    border: 7px dotted red;
+}
+
+p.dua{
+    height: 75px;
+    width: 25%;
+    overflow: auto;
+    background-color: aqua;
+    border-style: solid;
+    border-color: green;
+}
+
+p.tiga{
+    height: 75px;
+    width: 25%;
+    overflow: auto;
+    background-color: aqua;
+    border: 10px dashed rgb(38, 0, 255)
+}
